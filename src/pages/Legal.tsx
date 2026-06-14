@@ -70,7 +70,7 @@ export function LegalPage() {
             description={
               <>
                 <Paragraph>
-                  P-Stream functions as a search engine and content aggregator
+                  Fatetube functions as a search engine and content aggregator
                   that indexes publicly available media from across the
                   internet.
                   <br />
@@ -84,7 +84,7 @@ export function LegalPage() {
                   that&apos;s already available online, without bypassing any
                   security measures.
                 </Paragraph>
-                <Link to="/about">Learn more about how P-Stream works</Link>
+                <Link to="/about">Learn more about how Fatetube works</Link>
               </>
             }
           />
@@ -131,7 +131,7 @@ export function LegalPage() {
                 information or identifying data.
                 <br />
                 <br />
-                P-Stream is entirely self hostable, and can be run on any
+                Fatetube is entirely self hostable, and can be run on any
                 server. Even by yourself.
               </Paragraph>
             }
@@ -164,8 +164,8 @@ export function LegalPage() {
             title="Service Terms"
             colorClass="text-red-400"
             description={
-              <Paragraph>
-                P-Stream is licensed under the MIT license.
+                <Paragraph>
+                Fatetube is licensed under the MIT license.
                 <br />
                 <br />
                 By using our platform, you acknowledge these terms and agree
